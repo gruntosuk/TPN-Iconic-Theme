@@ -383,3 +383,4 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 - 2026-10-09 PS3: reserved fox craft-world v2 installed as ps3 background; Iconic original backed up in replaced/
 - 2026-10-09 GameCube: Resident Evil 4 style village tribute (environment only, no characters) installed; ghost-hunter version backed up in replaced/
 - 2026-10-09 PS3: Uncharted-style jungle temple tribute (environment only, seam softened locally) installed over the fox art; fox version kept in replaced/ and sources/_reserved_for_ps3 (for PSP)
+- 2026-10-09: added CHARACTER_OUTLINE.md (generic Gemini brief for adding a character that fits the theme)
