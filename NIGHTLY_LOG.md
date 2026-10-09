@@ -384,3 +384,7 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 - 2026-10-09 GameCube: Resident Evil 4 style village tribute (environment only, no characters) installed; ghost-hunter version backed up in replaced/
 - 2026-10-09 PS3: Uncharted-style jungle temple tribute (environment only, seam softened locally) installed over the fox art; fox version kept in replaced/ and sources/_reserved_for_ps3 (for PSP)
 - 2026-10-09: added CHARACTER_OUTLINE.md (generic Gemini brief for adding a character that fits the theme)
+- 2026-10-09 PS3: user's Gemini character version (1024x768) fitted 16:9 (crop rows 130-706), gentler seam fade, installed
+- 2026-10-09 PS3: Gemini edit of the clean background (user's mockup upload had UI baked in): character smaller, hands to the rope rails; installed
+- 2026-10-09 PS3: character re-added small via Gemini from the clean no-character background plus the user's character reference; installed
+2026-10-09: PS3 background re-done as Gemini zoom-out of the Uncharted scene (character smaller); previous backed up replaced/backgrounds-ps3-uncharted-small-character-v1.webp

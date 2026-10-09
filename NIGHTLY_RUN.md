@@ -72,3 +72,6 @@ End every report (final message, NIGHTLY_LOG entry and PushNotification) with th
 
 ## Reserved art
 - sources/_reserved_for_ps3/: fox cub craft-world backgrounds (original character). User wants them used for PS3 and maybe PSP when we reach them. Do not delete.
+
+## Mockup text rule (standing, from Grant 2026-10-09)
+If the systems-column description text runs right onto the logo (as on PS2/PS3), render the mockup with the bottom two lines removed: `MAXLINES=4 python mk.py <sys>`. Default is 6 lines. Apply this by default whenever the text collides with the logo, same as the systems already done.
