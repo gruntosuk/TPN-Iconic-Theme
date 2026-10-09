@@ -388,3 +388,9 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 - 2026-10-09 PS3: Gemini edit of the clean background (user's mockup upload had UI baked in): character smaller, hands to the rope rails; installed
 - 2026-10-09 PS3: character re-added small via Gemini from the clean no-character background plus the user's character reference; installed
 2026-10-09: PS3 background re-done as Gemini zoom-out of the Uncharted scene (character smaller); previous backed up replaced/backgrounds-ps3-uncharted-small-character-v1.webp
+2026-10-09: GameCube background replaced with Grant's RE4 village + character version (via Gemini); no-character version backed up replaced/backgrounds-gc-re4-village-no-character.webp
+2026-10-09: GameCube RE4 background re-done as Gemini zoom-out (character smaller); previous backed up replaced/backgrounds-gc-re4-leon-large.webp
+2026-10-09: GameCube RE4: Leon moved forward by compositing (cutout) onto Gemini clean zoomed-out village; previous backed up replaced/backgrounds-gc-re4-leon-zoomout-v1.webp
+2026-10-09: GameCube: removed green smudge behind legs in Leon composite (leg mask by trouser colour)
+2026-10-09: GameCube to be redone as Super Smash Bros-style stage (RE4 too dark). RE4 village art kept in sources/spare/ to repurpose (candidates: Wii, PC).
+2026-10-09: GameCube main background is now a Smash Bros-style floating arena (Gemini, seam fixed, no characters; Grant to add characters). RE4 version kept as gc_1 (sources/gc/gc_1_re4_leon_forward.webp and sources/spare/).
