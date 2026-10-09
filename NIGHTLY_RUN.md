@@ -1,6 +1,6 @@
-# Iconic TPN - nightly run (3 systems, up to 5 if going well)
+# Iconic TPN - nightly run (FIVE systems a night)
 
-Scheduled task brief. Each night, finish THREE systems to the agreed standard. If those three went well (no more than one regeneration each, no blockers, usage and time left), carry on and finish up to FIVE systems in total (user request 2026-10-07); do one full set of records, zip and NAS sync at the end covering all of them, but write the log entry and sync after the third system as a safety net. If anything goes wrong, stop at the last finished system and log how far you got. Then write a report. Order and popularity do not matter.
+Scheduled task brief. Each night, finish FIVE systems to the agreed standard (superseded by the 2026-10-09 update at the end). Original wording: three, and if those three went well (no more than one regeneration each, no blockers, usage and time left), carry on and finish up to FIVE systems in total (user request 2026-10-07); do one full set of records, zip and NAS sync at the end covering all of them, but write the log entry and sync after the third system as a safety net. If anything goes wrong, stop at the last finished system and log how far you got. Then write a report. Order and popularity do not matter.
 
 ## Locations
 - Working theme: ~/tpn-build/iconic-tpn (scripts in _tools, python env ~/tpn-build/venv)
@@ -75,3 +75,9 @@ End every report (final message, NIGHTLY_LOG entry and PushNotification) with th
 
 ## Mockup text rule (standing, from Grant 2026-10-09)
 If the systems-column description text runs right onto the logo (as on PS2/PS3), render the mockup with the bottom two lines removed: `MAXLINES=4 python mk.py <sys>`. Default is 6 lines. Apply this by default whenever the text collides with the logo, same as the systems already done.
+
+## Update 2026-10-09 (from Grant): five a night, generic systems first
+- Target FIVE systems every night (still write the log entry and NAS sync after the third as a safety net; stop and log if anything goes wrong).
+- Pick only systems that can be done with fully generic art (no recognizable game, character or brand): in TODO.md the obscure arcade boards and hardware in B1 (e.g. Hikaru, PGM, Zinc, Gaelco, UNIS, RAW Thrills, HyperScan, BEENA, Game Wave, Neo Geo 64, NESiCAxLive 1/2, System-80, IGT slots, Radio, Video Driver, eX-Board, Namco ES3, Monon Color, Super Note Club, TV Games, Konami PC, Fightcade, Screenshots), then the obscure computers/handhelds/pinball/laserdisc in C (BK 0010-01, C16, Max Machine, LaserActive, MSX LaserDisc, Konami LCD, Tiger, Pocket Challenge V2, Zaccaria, Pinball M, Pinball FX 1-3), then the book-art systems in E (BML3, digiBLAST, GameKing 3, M21, System 12, Sega AI, SMC-777, Vii, Wahlap).
+- Leave for Grant (do NOT generate): named-game ports and big-brand systems (2ship, soh, opengoal, pdark, halflife, powerbomberman, clonehero, redriver2, openlara etc.), stores (amazon, eagames, wingog, winpopcap, winbigfish, wingamehouse, pcvr), and iOS, Gundam RX-78, AVGN, Video Game Movies. Grant adds characters himself in Gemini where wanted.
+- Mockups: if the description text runs onto the logo, render with MAXLINES=4 (see the mockup text rule above).
