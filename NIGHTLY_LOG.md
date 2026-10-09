@@ -374,3 +374,12 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 - 2026-10-09 ps2: installed the user's edited version of the Vice City tribute (a character added by the user, 1377x768, layout/fit only, no generation). The no-character Gemini version is kept in replaced/backgrounds-ps2-vicecity-no-character.webp and sources/ps2/ps2_bg_vicecity_tribute.jpg.
 
 - 2026-10-09 ps2: installed a composite: user Gemini-blended character version (1024x572, painted into the scene) for the right side, with the clean left side and signage from the earlier no-clutter version (Gemini had added a left palm, cassettes, sunglasses, a newspaper and readable neon signs, which were removed by compositing). Source: sources/ps2/ps2_bg_vicecity_gemini_blend_user.png; result: ps2_bg_vicecity_character_composite_1920.jpg. Earlier versions in replaced/.
+- 2026-10-09 PS2 interim: user's clean Vice City v2 (1024x572, little city on left removed locally) installed for mockup until 1080p version from Gemini; previous composite backed up as replaced/backgrounds-ps2-vicecity-composite-final.webp
+- 2026-10-09 PS2: user's 1376x768 Vice City v3 installed, little city on left removed locally; 1024 interim backed up in replaced/
+- 2026-10-09 PS Vita: user-supplied grapple-swing Sackboy v4 (Gemini would not enlarge him); layout-only zoom 1.3x anchored right, installed
+- 2026-10-09 PS Vita: v5 = v3 scene on the right (stalls kept) + v4 clean haze on the left, 1.3x zoom, installed
+- 2026-10-09 PS Vita: v6 = Gemini faithful re-render (sharpen only) of the v5 zoomed crop (1375x768), installed; v5 soft backed up
+- 2026-10-09: removed stale original Iconic overlays for psvita, ps2, gc (old-art arm/claw leftovers); backed up in replaced/overlays-*-iconic-original.webp
+- 2026-10-09 PS3: reserved fox craft-world v2 installed as ps3 background; Iconic original backed up in replaced/
+- 2026-10-09 GameCube: Resident Evil 4 style village tribute (environment only, no characters) installed; ghost-hunter version backed up in replaced/
+- 2026-10-09 PS3: Uncharted-style jungle temple tribute (environment only, seam softened locally) installed over the fox art; fox version kept in replaced/ and sources/_reserved_for_ps3 (for PSP)
