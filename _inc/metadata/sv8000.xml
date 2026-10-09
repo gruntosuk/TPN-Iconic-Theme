@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Super Vision 8000</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Bandai</systemManufacturer>
+    <systemReleaseYear>1979</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

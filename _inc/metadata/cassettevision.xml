@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Cassette Vision</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Epoch Co</systemManufacturer>
+    <systemReleaseYear>1981</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

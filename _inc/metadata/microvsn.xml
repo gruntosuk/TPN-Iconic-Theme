@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Microvision</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Milton Bradley Company</systemManufacturer>
+    <systemReleaseYear>1979</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-portable}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

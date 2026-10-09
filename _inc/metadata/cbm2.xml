@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Commodore CBM-II</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Commodore</systemManufacturer>
+    <systemReleaseYear>1982</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

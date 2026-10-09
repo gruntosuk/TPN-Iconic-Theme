@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Theme Name: Iconic (ES version)
+Version:    1.0.1
+Author:     Delgan
+License:    CC0 1.0
+Based on:   Iconic (ES-DE version) by Siddy212
+-->
+<theme defaultTransition="instant">
+    <formatVersion>7</formatVersion>
+    <!-- Theme variants. -->
+    <include>./_inc/ui-components/theme-lang.xml</include>
+    <include>./_inc/ui-components/theme-config.xml</include>
+    <include>./_inc/ui-components/theme-variables.xml</include>
+    <!-- Set default cart size when none is available. -->
+    <variables>
+        <systemCoverSize>1-1</systemCoverSize>
+        <systemCartSize>1-1</systemCartSize>
+    </variables>
+    <!-- Built-in metadata is used as fallback when source is "Theme". -->
+    <include ifSubset="metadata-source:theme">./_inc/metadata/_builtin.xml</include>
+    <!-- Load "Theme" metadata (required in "EmulationStation" mode to retrieve description). -->
+    <include>./_inc/metadata/${system.theme}.xml</include>
+    <!-- Built-in metadata override theme metadata when source is "EmulationStation". -->
+    <include ifSubset="metadata-source:es">./_inc/metadata/_builtin.xml</include>
+    <!--
+        To reduce code repetition, views are split in multiple sub-components. Some views re-use
+        the same components. Due to the nature of "<include>" implementation, it's unforunately not
+        possible to compose a view simply by listing the desired components. Instead, which
+        component belongs to which view is defined by their "name" attribute.
+
+        To help you find your way around, here's an overview of which view uses which components:
+            - "system":
+                - background.xml
+                - status-indicators.xml
+                - system-carousel.xml
+                - help.xml
+            - "basic":
+                - background.xml
+                - status-indicators.xml
+                - game-info-basic.xml
+                - gamelist-textlist.xml
+                - help.xml
+            - "detailed":
+                - background.xml
+                - status-indicators.xml
+                - game-info-details.xml
+                - gamelist-textlist.xml
+                - help.xml
+            - "grid":
+                - background.xml
+                - status-indicators.xml
+                - game-info-details.xml
+                - gamelist-grid.xml
+                - help.xml
+            - "menu":
+                - menu.xml
+    -->
+    <include>./_inc/ui-components/background.xml</include>
+    <include>./_inc/ui-components/status-indicators.xml</include>
+    <include>./_inc/ui-components/system-carousel.xml</include>
+    <include>./_inc/ui-components/game-info-basic.xml</include>
+    <include>./_inc/ui-components/game-info-details.xml</include>
+    <include>./_inc/ui-components/gamelist-textlist.xml</include>
+    <include>./_inc/ui-components/gamelist-grid.xml</include>
+    <include>./_inc/ui-components/system-carousel.xml</include>
+    <include>./_inc/ui-components/help.xml</include>
+    <include>./_inc/ui-components/menu.xml</include>
+</theme>

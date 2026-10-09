@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>ABC 80</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Luxor Datorer AB</systemManufacturer>
+    <systemReleaseYear>1978</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

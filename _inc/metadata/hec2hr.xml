@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Hector 2HR</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Micronique</systemManufacturer>
+    <systemReleaseYear>1983</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

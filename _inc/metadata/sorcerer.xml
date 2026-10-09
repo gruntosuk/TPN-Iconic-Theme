@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Sorcerer</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Exidy Inc</systemManufacturer>
+    <systemReleaseYear>1978</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

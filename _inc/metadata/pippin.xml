@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Pippin @mark</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Apple</systemManufacturer>
+    <systemReleaseYear>1996</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

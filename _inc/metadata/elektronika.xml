@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Elektronika IM</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Elektronika</systemManufacturer>
+    <systemReleaseYear>1984</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-portable}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

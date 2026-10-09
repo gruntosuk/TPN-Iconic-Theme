@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>iOS</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Apple</systemManufacturer>
+    <systemReleaseYear>2007</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-portable}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

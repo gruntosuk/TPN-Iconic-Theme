@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Laseractive</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Pioneer</systemManufacturer>
+    <systemReleaseYear>1993</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

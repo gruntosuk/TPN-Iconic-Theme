@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Big Fish Games</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Aristocrat Leisure</systemManufacturer>
+    <systemReleaseYear>2002</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

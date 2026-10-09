@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Monon Color</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>M&amp;D</systemManufacturer>
+    <systemReleaseYear>2014</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-portable}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

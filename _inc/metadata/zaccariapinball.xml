@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Zaccaria Pinball</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Magic Pixel Kft</systemManufacturer>
+    <systemReleaseYear>2016</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

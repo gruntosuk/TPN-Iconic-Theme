@@ -1,0 +1,107 @@
+{
+ "studio2": {
+  "name": "Studio II",
+  "ctl": "custom: RCA Studio II console photo (Carbon theme, transparent) cropped, 3/4 view",
+  "todo": "Bowling-style strike, giant marble ball vs ten pins (Gemini; built-in Studio II game) - installed",
+  "sources": [
+   [
+    "incoming/studio2_bg.jpg",
+    "studio2_bg.jpg"
+   ],
+   [
+    "pixn_assets/carbon/consoles/rcastudioii.png",
+    "studio2_cab_src_carbon.png"
+   ],
+   [
+    "work/nightly/studio2_logo_src.png",
+    "studio2_logo_src.png"
+   ]
+  ],
+  "prompt": "built-in Bowling (RCA Studio II shipped with Addition, Bowling, Doodle, Freeway, Patterns): a huge glossy amber-and-teal marble bowling ball smashing into ten white pins on a dark wooden lane, pins and splinters exploding outward, no people/characters, no signage (first try had neon signs with text; regenerated as a fresh composition with explicit right-side placement).",
+  "credit": "background generated with Google Gemini (bowling ball striking ten pins, from the built-in Bowling game); system image is the TPN Carbon theme console photo, cropped; logo is the TPN Carbon theme RCA Studio II logo, sticker-styled."
+ },
+ "orao": {
+  "name": "Orao",
+  "ctl": "custom: Gemini flat top-down render of the Orao from a Wikimedia Commons photo (Orao-IMG 7278.jpg, CC licence)",
+  "todo": "Nevidljivi-style invisible presence in a foggy fortress courtyard (Gemini, original character) - installed",
+  "sources": [
+   [
+    "incoming/orao_bg.jpg",
+    "orao_bg.jpg"
+   ],
+   [
+    "incoming/orao_cab_gemini_raw.jpg",
+    "orao_cab_gemini_raw.jpg"
+   ],
+   [
+    "work/nightly/orao_logo_src.png",
+    "orao_logo_src.png"
+   ]
+  ],
+  "prompt": "Nevidljivi (The Invisible One, the one game on the Orao No 0 tape, Suzy Soft 1987; Orao also had Yugoslav ports/clones): original hooded investigator in a green coat (rear view) raising an oil lantern in a foggy Balkan fortress courtyard, an invisible presence shown only as a glassy shimmer, sparks and wet footprints. Scene guessed from the title; the game itself was not seen.",
+  "credit": "background generated with Google Gemini (original hooded investigator and an invisible presence, inspired by the Orao game Nevidljivi); system image is a Google Gemini top-down render based on a Wikimedia Commons photo of the Orao; logo is the TPN Carbon theme PEL Orao logo, sticker-styled."
+ },
+ "ondra": {
+  "name": "Ondra",
+  "ctl": "custom: Gemini flat top-down render of the Ondra from a Wikimedia Commons photo (OndraComputer.jpg)",
+  "todo": "Tenebra-style crypt puzzle: wanderer at a cracking rune door (Gemini, original character) - installed",
+  "sources": [
+   [
+    "incoming/ondra_bg.jpg",
+    "ondra_bg.jpg"
+   ],
+   [
+    "incoming/ondra_cab_gemini_raw.jpg",
+    "ondra_cab_gemini_raw.jpg"
+   ],
+   [
+    "work/nightly/ondra_logo_src.png",
+    "ondra_logo_src.png"
+   ]
+  ],
+  "prompt": "Tenebra (modern atmospheric puzzle game with roguelike looks, ported to the Tesla Ondra in 2024 by 72ka; not a period title - original Ondra games were hard to confirm): original wanderer in a patched red poncho and striped scarf (rear view) holding a glowing blue crystal staff before a colossal cracked stone door with abstract glowing patterns (no letters), deep crypt.",
+  "credit": "background generated with Google Gemini (original wanderer at an ancient crypt door, inspired by the puzzle game Tenebra); system image is a Google Gemini top-down render based on a Wikimedia Commons photo of the Ondra; logo is the TPN Carbon theme Ondra logo (dark panel removed), sticker-styled."
+ },
+ "n501": {
+  "name": "NUON DVD-N501",
+  "ctl": "custom: PixN Carbon NUON console image (Samsung DVD player + controller) used as-is, cut-out",
+  "todo": "Tempest-style tube shooter: golden bat-wing starfighter firing down a neon vortex tunnel at a red crystal enemy (Gemini, original) - installed; name shortened to NUON DVD-N501, hardware type set to console",
+  "sources": [
+   [
+    "incoming/n501_bg.jpg",
+    "n501_bg.jpg"
+   ],
+   [
+    "incoming/n501_cab_src_carbon.png",
+    "n501_cab_src_carbon.png"
+   ],
+   [
+    "work/nightly/n501_logo_src.png",
+    "n501_logo_src.png"
+   ]
+  ],
+  "prompt": "Tempest 2000 / Tempest 3000 style tube shooter (NUON launch showpiece, Jeff Minter): original golden bat-wing starfighter in the foreground firing a cyan beam down a neon wireframe vortex tunnel at a red crystalline enemy, no text.",
+  "credit": "background generated with Google Gemini (original starfighter in a neon vortex tube, inspired by Tempest 3000 on NUON); system image is the TPN Carbon PixN NUON console image (note: shows a Samsung-type NUON DVD player rather than the exact N501); logo is the TPN Carbon theme NUON logo (tagline removed), sticker-styled."
+ },
+ "pippin": {
+  "name": "Pippin @mark",
+  "ctl": "custom: Gemini green-screen render of the Apple Bandai Pippin Atmark console and controller from a Wikimedia Commons photo (Pippin-Atmark-Console-Set.png), cut out",
+  "todo": "Racing Days-style rally game: original cobalt rally coupe drifting a mountain hairpin at dusk (Gemini, original) - installed; year corrected 1986 to 1996",
+  "sources": [
+   [
+    "incoming/pippin_bg.jpg",
+    "pippin_bg.jpg"
+   ],
+   [
+    "incoming/pippin_cab_gemini_raw.jpg",
+    "pippin_cab_gemini_raw.jpg"
+   ],
+   [
+    "work/nightly/pippin_logo_src.png",
+    "pippin_logo_src.png"
+   ]
+  ],
+  "prompt": "Racing Days / rally-style racer on the Pippin (original blue striped rally coupe drifting through a mountain hairpin at dusk with a dust and gravel spray; no text and no real-game characters). Pippin game library is small; title chosen as a plausible driving game.",
+  "credit": "background generated with Google Gemini (original rally coupe drifting a mountain hairpin; note the car resembles a classic Ford Escort rally car with a tiny grille badge); system image is a Google Gemini render based on a Wikimedia Commons photo of the Pippin Atmark console set; logo is the TPN Carbon theme Pippin logo (grey background removed), sticker-styled."
+ }
+}

@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Fightcade 2</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Pau "Pof" Oliva Papasi</systemManufacturer>
+    <systemReleaseYear>2015</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

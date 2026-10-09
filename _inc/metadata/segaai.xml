@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Sega AI Computer</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Sega</systemManufacturer>
+    <systemReleaseYear>1986</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

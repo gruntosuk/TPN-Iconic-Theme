@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Vii</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Jungle Soft / KenSingTon / Siatronics</systemManufacturer>
+    <systemReleaseYear>2007</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

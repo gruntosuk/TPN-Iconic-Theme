@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Actionmax</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Worlds of Wonder</systemManufacturer>
+    <systemReleaseYear>1987</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

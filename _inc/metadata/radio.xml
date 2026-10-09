@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Radio</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Internet Radio</systemManufacturer>
+    <systemReleaseYear></systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-console}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

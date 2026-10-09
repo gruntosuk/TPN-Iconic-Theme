@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>M21</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Olivetti</systemManufacturer>
+    <systemReleaseYear>1984</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

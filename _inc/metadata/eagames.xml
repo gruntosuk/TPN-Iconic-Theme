@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>EA Games</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Electronic Arts</systemManufacturer>
+    <systemReleaseYear>2011</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

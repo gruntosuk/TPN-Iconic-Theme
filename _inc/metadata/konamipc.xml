@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Konami PC Based</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Konami</systemManufacturer>
+    <systemReleaseYear>2004</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-arcade}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

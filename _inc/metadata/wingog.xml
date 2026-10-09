@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Good Old Games</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>CD Projekt</systemManufacturer>
+    <systemReleaseYear>2008</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

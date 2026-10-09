@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Elektronika BK</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Elektronika</systemManufacturer>
+    <systemReleaseYear>1985</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-computer}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

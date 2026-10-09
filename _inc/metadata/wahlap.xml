@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>Wahlap Arcade Machines</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Wahlap Technology</systemManufacturer>
+    <systemReleaseYear>2010</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-arcade}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>

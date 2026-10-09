@@ -1,0 +1,11 @@
+<theme>
+  <variables>
+    <systemName>ReDriver2</systemName>
+    <systemDescription></systemDescription>
+    <systemManufacturer>Ports</systemManufacturer>
+    <systemReleaseYear>2020</systemReleaseYear>
+    <systemHardwareType>${i18n.hardware-port}</systemHardwareType>
+    <systemCoverSize>3-4</systemCoverSize>
+    <systemCartSize>1-1</systemCartSize>
+  </variables>
+</theme>
