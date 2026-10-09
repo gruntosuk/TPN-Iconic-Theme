@@ -394,3 +394,4 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 2026-10-09: GameCube: removed green smudge behind legs in Leon composite (leg mask by trouser colour)
 2026-10-09: GameCube to be redone as Super Smash Bros-style stage (RE4 too dark). RE4 village art kept in sources/spare/ to repurpose (candidates: Wii, PC).
 2026-10-09: GameCube main background is now a Smash Bros-style floating arena (Gemini, seam fixed, no characters; Grant to add characters). RE4 version kept as gc_1 (sources/gc/gc_1_re4_leon_forward.webp and sources/spare/).
+2026-10-09: GameCube background: Smash arena with Mario and Link (Grant's Gemini version) installed; empty arena backed up replaced/backgrounds-gc-smash-arena-no-characters.webp
