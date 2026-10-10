@@ -418,3 +418,5 @@ NAS SYNC PENDING (NAS not mounted): copy to /Volumes/stuff/Emulation/TPN Iconic 
 - Systems completed: tonight 5 (igspgm, zinc, gaelco, unis, rawthrills); total done so far = 51 (section A)
 - Systems left: 68 (B1 22, C 36, D 0, E 10)
 - Nights to complete: 14 at 5 per night (23 at 3 per night)
+
+- 2026-10-10 zinc REDONE after user feedback (side cabinets too faded): new Gemini three-cabinet group with glossy BLACK side cabinets and vivid vinyl (original SCHOOL CLASH and STAR KNIGHT games). Raw: sources/zinc/zinc_cab_3cab_v2_black_gemini_raw.jpeg; faded v1 kept as sources/zinc/zinc_cab_v1_faded.png and replaced/controllers-zinc-v1faded.webp. Installed _inc/controllers/zinc.webp, mockups/zinc.jpg. Lesson: for the side cabinets always say "glossy black bodies, fully saturated, NOT faded/grey" (also aleck64). NAS sync pending adds: new zinc raw and mockup; zip iconic-tpn_20261010_b.zip.
