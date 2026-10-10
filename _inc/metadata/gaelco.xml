@@ -3,7 +3,7 @@
     <systemName>Gaelco PowerVR</systemName>
     <systemDescription></systemDescription>
     <systemManufacturer>Gabinete Electrónico Consultivo S.A.</systemManufacturer>
-    <systemReleaseYear>1991</systemReleaseYear>
+    <systemReleaseYear>1996</systemReleaseYear>
     <systemHardwareType>${i18n.hardware-arcade}</systemHardwareType>
     <systemCoverSize>3-4</systemCoverSize>
     <systemCartSize>1-1</systemCartSize>

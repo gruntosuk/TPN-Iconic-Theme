@@ -374,12 +374,47 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 - 2026-10-09 ps2: installed the user's edited version of the Vice City tribute (a character added by the user, 1377x768, layout/fit only, no generation). The no-character Gemini version is kept in replaced/backgrounds-ps2-vicecity-no-character.webp and sources/ps2/ps2_bg_vicecity_tribute.jpg.
 
 - 2026-10-09 ps2: installed a composite: user Gemini-blended character version (1024x572, painted into the scene) for the right side, with the clean left side and signage from the earlier no-clutter version (Gemini had added a left palm, cassettes, sunglasses, a newspaper and readable neon signs, which were removed by compositing). Source: sources/ps2/ps2_bg_vicecity_gemini_blend_user.png; result: ps2_bg_vicecity_character_composite_1920.jpg. Earlier versions in replaced/.
-- 2026-10-09: Hikaru is Star Wars Racer Arcade (user's art); firefighter bg shelved in sources/hikaru, original restored as placeholder until user supplies Racer bg
-- 2026-10-09: Hikaru DONE (custom): Gemini desert-canyon bg (sources/hikaru/hikaru_bg_racer_canyon_gemini_raw.jpeg) for user to add pod racer; user-supplied Star Wars Racer Arcade cabinet as system image; logo; mockup rendered
-- 2026-10-09: Hikaru Racer bg with user's pods; front pod moved onto road (+115,+15) and vacated rock patched
-- 2026-10-09: Hikaru Racer bg v3: foreground road replaced by rocks, pods repainted bright blue/green (Gemini edit of user's image)
-- 2026-10-09: Hikaru pods desaturated ~30%
-- 2026-10-09: Hikaru bg: blue pod given pilot cockpit (Gemini), toned. Cabinet needs a front-facing image to match other Sega cabs (waiting on user)
-- 2026-10-09: Hikaru bg: pilot pod moved to end of long cables ahead of blue racer's engines (Gemini w/ user refs), toned
-- 2026-10-09: Hikaru bg: pilot pod moved to right of engines on short cables (Gemini), toned
-- 2026-10-09: Hikaru bg: pilot pod placed per user's sketch (upper right of engines, cables from both engines); composited by hand
+- 2026-10-09 PS2 interim: user's clean Vice City v2 (1024x572, little city on left removed locally) installed for mockup until 1080p version from Gemini; previous composite backed up as replaced/backgrounds-ps2-vicecity-composite-final.webp
+- 2026-10-09 PS2: user's 1376x768 Vice City v3 installed, little city on left removed locally; 1024 interim backed up in replaced/
+- 2026-10-09 PS Vita: user-supplied grapple-swing Sackboy v4 (Gemini would not enlarge him); layout-only zoom 1.3x anchored right, installed
+- 2026-10-09 PS Vita: v5 = v3 scene on the right (stalls kept) + v4 clean haze on the left, 1.3x zoom, installed
+- 2026-10-09 PS Vita: v6 = Gemini faithful re-render (sharpen only) of the v5 zoomed crop (1375x768), installed; v5 soft backed up
+- 2026-10-09: removed stale original Iconic overlays for psvita, ps2, gc (old-art arm/claw leftovers); backed up in replaced/overlays-*-iconic-original.webp
+- 2026-10-09 PS3: reserved fox craft-world v2 installed as ps3 background; Iconic original backed up in replaced/
+- 2026-10-09 GameCube: Resident Evil 4 style village tribute (environment only, no characters) installed; ghost-hunter version backed up in replaced/
+- 2026-10-09 PS3: Uncharted-style jungle temple tribute (environment only, seam softened locally) installed over the fox art; fox version kept in replaced/ and sources/_reserved_for_ps3 (for PSP)
+- 2026-10-09: added CHARACTER_OUTLINE.md (generic Gemini brief for adding a character that fits the theme)
+- 2026-10-09 PS3: user's Gemini character version (1024x768) fitted 16:9 (crop rows 130-706), gentler seam fade, installed
+- 2026-10-09 PS3: Gemini edit of the clean background (user's mockup upload had UI baked in): character smaller, hands to the rope rails; installed
+- 2026-10-09 PS3: character re-added small via Gemini from the clean no-character background plus the user's character reference; installed
+2026-10-09: PS3 background re-done as Gemini zoom-out of the Uncharted scene (character smaller); previous backed up replaced/backgrounds-ps3-uncharted-small-character-v1.webp
+2026-10-09: GameCube background replaced with Grant's RE4 village + character version (via Gemini); no-character version backed up replaced/backgrounds-gc-re4-village-no-character.webp
+2026-10-09: GameCube RE4 background re-done as Gemini zoom-out (character smaller); previous backed up replaced/backgrounds-gc-re4-leon-large.webp
+2026-10-09: GameCube RE4: Leon moved forward by compositing (cutout) onto Gemini clean zoomed-out village; previous backed up replaced/backgrounds-gc-re4-leon-zoomout-v1.webp
+2026-10-09: GameCube: removed green smudge behind legs in Leon composite (leg mask by trouser colour)
+2026-10-09: GameCube to be redone as Super Smash Bros-style stage (RE4 too dark). RE4 village art kept in sources/spare/ to repurpose (candidates: Wii, PC).
+2026-10-09: GameCube main background is now a Smash Bros-style floating arena (Gemini, seam fixed, no characters; Grant to add characters). RE4 version kept as gc_1 (sources/gc/gc_1_re4_leon_forward.webp and sources/spare/).
+2026-10-09: GameCube background: Smash arena with Mario and Link (Grant's Gemini version) installed; empty arena backed up replaced/backgrounds-gc-smash-arena-no-characters.webp
+
+## 2026-10-10 night run - five systems: igspgm, zinc, gaelco, unis, rawthrills
+Generic-art systems done in this order: igspgm, zinc, gaelco, unis, rawthrills (all in B1).
+- igspgm (PolyGame Master): Oriental Legend / Knights of Valour-style general vs war boar; three-cabinet group; halberd tip nudged right (shifted image 60px) to clear the left 45%.
+- zinc (Sony ZN): Rival Schools-style flying schoolboy; three-cabinet group; metadata renamed "Sony ZN (ZiNc)", manufacturer Sony / Taito, year 1995.
+- gaelco: Radikal Bikers-style pizza scooter; background redone once because a taxi sat in the left 45% (removed by a Gemini edit); controller is the small Carbon A.V. TRACK cabinet (248x283), slightly soft in the mockup; metadata year set to 1996 (UNSURE, please check).
+- unis: Sky Kart-style original girl racer; background regenerated twice (first looked Mario-like, second had balloons on the left); three-cabinet group with invented games SKY KART and TICKET RUSH; logo tagline cropped (white-on-white).
+- rawthrills: Fast and Furious-style yellow coupe jump (resembles a Viper, unbadged); fire trail dimmed out of the left area; logo on a black plate (white-on-white); metadata year 2004.
+For review: gaelco year and small controller (a Gemini top-down render would be an option); rawthrills car likeness; no overlays existed for these five.
+NAS SYNC PENDING (NAS not mounted): copy to /Volumes/stuff/Emulation/TPN Iconic Theme: iconic-tpn_20261010.zip (as TPN Iconic/iconic-tpn.zip), mockups/{igspgm,zinc,gaelco,unis,rawthrills}.jpg, sources/{igspgm,zinc,gaelco,unis,rawthrills}/, TODO.md, PROMPTS.md, CREDITS-TPN.md, NIGHTLY_LOG.md, replaced/ files listed below.
+
+### Files
+- Installed in the theme (iconic-tpn/_inc/): backgrounds/{igspgm,zinc,gaelco,unis,rawthrills}.webp, controllers/{same}.webp, logos/{same}.webp, metadata/zinc.xml, metadata/gaelco.xml, metadata/rawthrills.xml
+- Mockups (mockups/): igspgm.jpg, zinc.jpg, gaelco.jpg, unis.jpg, rawthrills.jpg
+- Originals (sources/<code>/): igspgm: igspgm_bg_raw.jpeg, igspgm_bg_fixed.png, igspgm_cab.png, igspgm_cab_3cab_gemini_raw.jpeg, igspgm_carbon_grey.jpg, igspgm_ckau_grey.jpg, igspgm_logo.webp; zinc: zinc_bg_raw.jpeg, zinc_cab.png, zinc_cab_3cab_gemini_raw.jpeg, zinc_logo.webp; gaelco: gaelco_bg_raw.jpeg, gaelco_bg_notaxi.jpeg, gaelco_carbon_grey.jpg, gaelco_ckau_grey.jpg, gaelco_logo.webp; unis: unis_bg_raw.jpeg, unis_bg_raw2.jpeg, unis_bg_raw3.jpeg, unis_cab.png, unis_cab_3cab_gemini_raw.jpeg, unis_carbon_grey.jpg, unis_logo.webp; rawthrills: rawthrills_bg_raw.jpeg, rawthrills_bg_fixed.png, rawthrills_carbon_grey.jpg, rawthrills_ckau_grey.jpg, rawthrills_logo.webp
+- Backups of old art (replaced/): backgrounds-{gaelco,igspgm,rawthrills,unis,zinc}-old.webp, controllers-{same}-old.webp, metadata-{gaelco,rawthrills,zinc}-old.xml
+- Records: NIGHTLY_LOG.md, TODO.md, PROMPTS.md, CREDITS-TPN.md, salvage_log.tsv, controllers_log.tsv, arcade_bg_log.tsv, make_todo.py (TODO.md was edited by hand because make_todo.py reads the unmounted NAS; the custom dict is updated for the next regeneration)
+- Zip: ~/tpn-build/iconic-tpn_20261010.zip (NAS copy pending)
+- Leftovers: Gemini_Generated_Image_*.jpeg in ~/Downloads (cannot delete; copies are in sources/ and incoming/)
+
+- Systems completed: tonight 5 (igspgm, zinc, gaelco, unis, rawthrills); total done so far = 51 (section A)
+- Systems left: 68 (B1 22, C 36, D 0, E 10)
+- Nights to complete: 14 at 5 per night (23 at 3 per night)
