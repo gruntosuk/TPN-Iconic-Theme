@@ -115,7 +115,7 @@ Every system in the PixN build that the original Iconic theme has no art for, wi
 | - [x] | segasystem32 | System 32 | Golden Axe-style barbarian (Gemini) - installed | custom: Gemini-generated early-90s Sega upright cabinet (green screen) | custom |  |
 | - [x] | sorcerer | Sorcerer | Sorcerer vs dragon cavern (Gemini) - installed | custom: Gemini top-down render from the Carbon theme Sorcerer photo | custom |  |
 | - [x] | studio2 | Studio II | Bowling-style strike, giant marble ball vs ten pins (Gemini; built-in Studio II game) - installed | custom: RCA Studio II console photo (Carbon theme, transparent) cropped, 3/4 view | custom |  |
-| - [x] | sv8000 | Super Vision 8000 | Retro pilot vs saucer mothership over a night city (Gemini, generic) - installed | custom: Bandai Super Vision 8000 photo (Carbon theme) cut out | custom |  |
+| - [x] | sv8000 | Super Vision 8000 | Retro pilot vs saucer mothership over a night city (Gemini, generic) - installed | custom: Bandai Super Vision 8000 photo (Carbon theme), Gemini top-down re-render straightened 2026-10-10 | custom |  |
 | - [x] | tvc64 | TVC 64 | Hungarian warrior on winged horse vs three-headed dragon (Gemini) - installed | custom: Gemini top-down render of the Videoton TVC from a public-domain Wikimedia photo | custom |  |
 | - [x] | vemulator | Sega Visual Memory Unit | Round robot companion leaping over a neon ocean (Gemini, generic) - installed | custom: Dreamcast VMU photo (Carbon theme, transparent) cropped and doubled | custom |  |
 | - [x] | vg5k | VG-5000 | Deep-sea diver vs luminous jellyfish, sunken palace (Gemini) - installed | custom: Gemini top-down render of the Philips VG-5000 from the Carbon theme photo | custom |  |
