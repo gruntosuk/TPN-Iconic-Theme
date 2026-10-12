@@ -415,3 +415,6 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 
 ## 2026-10-12 audit - real cabinets in three-cabinet groups
 Checked every group. Already real: segasystem32 (Golden Axe, Alien Storm), aleck64 (Star Soldier: Vanishing Earth, Eleven Beat), igspgm (Oriental Legend, Knights of Valour), namco11 (Tekken 2, Soul Edge), hikaru (Star Wars Racer Arcade). Redone with real games: neogeo64 (Samurai Shodown 64, Fatal Fury: Wild Ambition), zinc (Rival Schools, Street Fighter EX2 Plus), unis (Pirate's Hook, Comet Catcher - real UNIS ticket-redemption titles drawn as upright cabinets), rawthrills (Jurassic Park Arcade, Aliens Armageddon). Marquee/side art is Gemini-generated in each game's style, not official art. unis and rawthrills re-keyed with work/tmp/key2.py (cleaner edges than cutout_green.py on dark cabinets). Old versions kept as *_v2_invented_games.png in sources. Zip iconic-tpn_20261012_b.zip is stale; rebuild before release.
+
+## 2026-10-12 unis system image replaced
+User supplied a UNIS product photo of Monster Kart DLX (twin sit-in kart cabinet, UNIS logo on marquee). Gemini re-render on green, cut out with work/tmp/key2.py, installed as controllers/unis.webp. Replaces the three-upright group (kept as sources/unis/unis_cab_threecab_realgames.png). It suits the kart-girl background far better.
