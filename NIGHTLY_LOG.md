@@ -407,3 +407,4 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 - Systems left: 63 (B1 17, C 36, D 0, E 10)
 - Nights to complete: 13 at 5 per night (21 at 3 per night)
 - 2026-10-12 tvgames: removed a white halo around the joystick cut-out (alpha eroded, light fringe removed). Old cut-out kept as sources/tvgames/tvgames_cab_v1_whitehalo.png.
+- 2026-10-12 tvgames (2nd fix): re-cut the joystick from the raw grey render by flood-filling the grey background and shadow from the outside (white halo and shadow gone); stick and plug tips restored by hand. Earlier cut-outs: tvgames_cab_v1_whitehalo.png, tvgames_cab_v2_greyshadow.png.
