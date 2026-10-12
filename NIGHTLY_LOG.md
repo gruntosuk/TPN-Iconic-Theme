@@ -406,3 +406,4 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 - Systems completed: tonight 5, total done 56 (section A)
 - Systems left: 63 (B1 17, C 36, D 0, E 10)
 - Nights to complete: 13 at 5 per night (21 at 3 per night)
+- 2026-10-12 tvgames: removed a white halo around the joystick cut-out (alpha eroded, light fringe removed). Old cut-out kept as sources/tvgames/tvgames_cab_v1_whitehalo.png.
