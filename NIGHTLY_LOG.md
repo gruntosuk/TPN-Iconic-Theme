@@ -374,57 +374,35 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 - 2026-10-09 ps2: installed the user's edited version of the Vice City tribute (a character added by the user, 1377x768, layout/fit only, no generation). The no-character Gemini version is kept in replaced/backgrounds-ps2-vicecity-no-character.webp and sources/ps2/ps2_bg_vicecity_tribute.jpg.
 
 - 2026-10-09 ps2: installed a composite: user Gemini-blended character version (1024x572, painted into the scene) for the right side, with the clean left side and signage from the earlier no-clutter version (Gemini had added a left palm, cassettes, sunglasses, a newspaper and readable neon signs, which were removed by compositing). Source: sources/ps2/ps2_bg_vicecity_gemini_blend_user.png; result: ps2_bg_vicecity_character_composite_1920.jpg. Earlier versions in replaced/.
-- 2026-10-09 PS2 interim: user's clean Vice City v2 (1024x572, little city on left removed locally) installed for mockup until 1080p version from Gemini; previous composite backed up as replaced/backgrounds-ps2-vicecity-composite-final.webp
-- 2026-10-09 PS2: user's 1376x768 Vice City v3 installed, little city on left removed locally; 1024 interim backed up in replaced/
-- 2026-10-09 PS Vita: user-supplied grapple-swing Sackboy v4 (Gemini would not enlarge him); layout-only zoom 1.3x anchored right, installed
-- 2026-10-09 PS Vita: v5 = v3 scene on the right (stalls kept) + v4 clean haze on the left, 1.3x zoom, installed
-- 2026-10-09 PS Vita: v6 = Gemini faithful re-render (sharpen only) of the v5 zoomed crop (1375x768), installed; v5 soft backed up
-- 2026-10-09: removed stale original Iconic overlays for psvita, ps2, gc (old-art arm/claw leftovers); backed up in replaced/overlays-*-iconic-original.webp
-- 2026-10-09 PS3: reserved fox craft-world v2 installed as ps3 background; Iconic original backed up in replaced/
-- 2026-10-09 GameCube: Resident Evil 4 style village tribute (environment only, no characters) installed; ghost-hunter version backed up in replaced/
-- 2026-10-09 PS3: Uncharted-style jungle temple tribute (environment only, seam softened locally) installed over the fox art; fox version kept in replaced/ and sources/_reserved_for_ps3 (for PSP)
-- 2026-10-09: added CHARACTER_OUTLINE.md (generic Gemini brief for adding a character that fits the theme)
-- 2026-10-09 PS3: user's Gemini character version (1024x768) fitted 16:9 (crop rows 130-706), gentler seam fade, installed
-- 2026-10-09 PS3: Gemini edit of the clean background (user's mockup upload had UI baked in): character smaller, hands to the rope rails; installed
-- 2026-10-09 PS3: character re-added small via Gemini from the clean no-character background plus the user's character reference; installed
-2026-10-09: PS3 background re-done as Gemini zoom-out of the Uncharted scene (character smaller); previous backed up replaced/backgrounds-ps3-uncharted-small-character-v1.webp
-2026-10-09: GameCube background replaced with Grant's RE4 village + character version (via Gemini); no-character version backed up replaced/backgrounds-gc-re4-village-no-character.webp
-2026-10-09: GameCube RE4 background re-done as Gemini zoom-out (character smaller); previous backed up replaced/backgrounds-gc-re4-leon-large.webp
-2026-10-09: GameCube RE4: Leon moved forward by compositing (cutout) onto Gemini clean zoomed-out village; previous backed up replaced/backgrounds-gc-re4-leon-zoomout-v1.webp
-2026-10-09: GameCube: removed green smudge behind legs in Leon composite (leg mask by trouser colour)
-2026-10-09: GameCube to be redone as Super Smash Bros-style stage (RE4 too dark). RE4 village art kept in sources/spare/ to repurpose (candidates: Wii, PC).
-2026-10-09: GameCube main background is now a Smash Bros-style floating arena (Gemini, seam fixed, no characters; Grant to add characters). RE4 version kept as gc_1 (sources/gc/gc_1_re4_leon_forward.webp and sources/spare/).
-2026-10-09: GameCube background: Smash arena with Mario and Link (Grant's Gemini version) installed; empty arena backed up replaced/backgrounds-gc-smash-arena-no-characters.webp
+- 2026-10-09: Hikaru is Star Wars Racer Arcade (user's art); firefighter bg shelved in sources/hikaru, original restored as placeholder until user supplies Racer bg
+- 2026-10-09: Hikaru DONE (custom): Gemini desert-canyon bg (sources/hikaru/hikaru_bg_racer_canyon_gemini_raw.jpeg) for user to add pod racer; user-supplied Star Wars Racer Arcade cabinet as system image; logo; mockup rendered
+- 2026-10-09: Hikaru Racer bg with user's pods; front pod moved onto road (+115,+15) and vacated rock patched
+- 2026-10-09: Hikaru Racer bg v3: foreground road replaced by rocks, pods repainted bright blue/green (Gemini edit of user's image)
+- 2026-10-09: Hikaru pods desaturated ~30%
+- 2026-10-09: Hikaru bg: blue pod given pilot cockpit (Gemini), toned. Cabinet needs a front-facing image to match other Sega cabs (waiting on user)
+- 2026-10-09: Hikaru bg: pilot pod moved to end of long cables ahead of blue racer's engines (Gemini w/ user refs), toned
+- 2026-10-09: Hikaru bg: pilot pod moved to right of engines on short cables (Gemini), toned
+- 2026-10-09: Hikaru bg: pilot pod placed per user's sketch (upper right of engines, cables from both engines); composited by hand
 
-## 2026-10-10 night run - five systems: igspgm, zinc, gaelco, unis, rawthrills
-Generic-art systems done in this order: igspgm, zinc, gaelco, unis, rawthrills (all in B1).
-- igspgm (PolyGame Master): Oriental Legend / Knights of Valour-style general vs war boar; three-cabinet group; halberd tip nudged right (shifted image 60px) to clear the left 45%.
-- zinc (Sony ZN): Rival Schools-style flying schoolboy; three-cabinet group; metadata renamed "Sony ZN (ZiNc)", manufacturer Sony / Taito, year 1995.
-- gaelco: Radikal Bikers-style pizza scooter; background redone once because a taxi sat in the left 45% (removed by a Gemini edit); controller is the small Carbon A.V. TRACK cabinet (248x283), slightly soft in the mockup; metadata year set to 1996 (UNSURE, please check).
-- unis: Sky Kart-style original girl racer; background regenerated twice (first looked Mario-like, second had balloons on the left); three-cabinet group with invented games SKY KART and TICKET RUSH; logo tagline cropped (white-on-white).
-- rawthrills: Fast and Furious-style yellow coupe jump (resembles a Viper, unbadged); fire trail dimmed out of the left area; logo on a black plate (white-on-white); metadata year 2004.
-For review: gaelco year and small controller (a Gemini top-down render would be an option); rawthrills car likeness; no overlays existed for these five.
-NAS SYNC PENDING (NAS not mounted): copy to /Volumes/stuff/Emulation/TPN Iconic Theme: iconic-tpn_20261010.zip (as TPN Iconic/iconic-tpn.zip), mockups/{igspgm,zinc,gaelco,unis,rawthrills}.jpg, sources/{igspgm,zinc,gaelco,unis,rawthrills}/, TODO.md, PROMPTS.md, CREDITS-TPN.md, NIGHTLY_LOG.md, replaced/ files listed below.
+## 2026-10-12 night run (gamewave, tvgames, hyperscan, beena, neogeo64)
+- gamewave: original robot game-show host with a glowing question mark under spotlights (Game Wave is a trivia/game-show console). Console = Gemini render on green from the Carbon picture.
+- tvgames: original astronaut swinging a neon bat at a flaming comet on a neon grid. Console = generic Gemini joystick (the old photo showed licensed Spider-Man/SpongeBob art). Green-screen render lost the black body, redone on light grey. Logo is the TV icon crop (no "MOTION" text).
+- hyperscan: original silver-haired duellist summoning a golden dragon from a glowing card (avoids the licensed Marvel card game). Console = Gemini render from a Wikimedia screenshot reference; it is black on a dark panel so contrast is lower.
+- beena: original girl in a yellow raincoat jumping in a rainbow puddle. Background took three attempts (v1 flowers in the left 45 percent; v2 style reference lost, mushroom on the left; v3 accepted). Console = Gemini render from a text description only (no Commons photo): PLEASE CHECK ITS ACCURACY. First grey render lost the white body, redone on green and despilled.
+- neogeo64: replaced the licensed Samurai Shodown screenshot with an original female ronin vs blue oni on a sea-cliff. Three-cabinet group (red Hyper Neo Geo 64 centre, IRON FANG and STORM RIDERS side cabinets, all original), first attempt accepted; tiny SEGA mark on the centre control panel inherited from the shape reference.
+- Metadata (descriptions, years) not changed this run; descriptions are still blank on all five. gamewave metadata untouched.
+- Review: neogeo64 background was composed for the right 55 percent (checked on the mockup, left column empty).
 
 ### Files
-- Installed in the theme (iconic-tpn/_inc/): backgrounds/{igspgm,zinc,gaelco,unis,rawthrills}.webp, controllers/{same}.webp, logos/{same}.webp, metadata/zinc.xml, metadata/gaelco.xml, metadata/rawthrills.xml
-- Mockups (mockups/): igspgm.jpg, zinc.jpg, gaelco.jpg, unis.jpg, rawthrills.jpg
-- Originals (sources/<code>/): igspgm: igspgm_bg_raw.jpeg, igspgm_bg_fixed.png, igspgm_cab.png, igspgm_cab_3cab_gemini_raw.jpeg, igspgm_carbon_grey.jpg, igspgm_ckau_grey.jpg, igspgm_logo.webp; zinc: zinc_bg_raw.jpeg, zinc_cab.png, zinc_cab_3cab_gemini_raw.jpeg, zinc_logo.webp; gaelco: gaelco_bg_raw.jpeg, gaelco_bg_notaxi.jpeg, gaelco_carbon_grey.jpg, gaelco_ckau_grey.jpg, gaelco_logo.webp; unis: unis_bg_raw.jpeg, unis_bg_raw2.jpeg, unis_bg_raw3.jpeg, unis_cab.png, unis_cab_3cab_gemini_raw.jpeg, unis_carbon_grey.jpg, unis_logo.webp; rawthrills: rawthrills_bg_raw.jpeg, rawthrills_bg_fixed.png, rawthrills_carbon_grey.jpg, rawthrills_ckau_grey.jpg, rawthrills_logo.webp
-- Backups of old art (replaced/): backgrounds-{gaelco,igspgm,rawthrills,unis,zinc}-old.webp, controllers-{same}-old.webp, metadata-{gaelco,rawthrills,zinc}-old.xml
-- Records: NIGHTLY_LOG.md, TODO.md, PROMPTS.md, CREDITS-TPN.md, salvage_log.tsv, controllers_log.tsv, arcade_bg_log.tsv, make_todo.py (TODO.md was edited by hand because make_todo.py reads the unmounted NAS; the custom dict is updated for the next regeneration)
-- Zip: ~/tpn-build/iconic-tpn_20261010.zip (NAS copy pending)
-- Leftovers: Gemini_Generated_Image_*.jpeg in ~/Downloads (cannot delete; copies are in sources/ and incoming/)
+- Installed in the theme (iconic-tpn/_inc/): backgrounds/{gamewave,tvgames,hyperscan,beena,neogeo64}.webp; controllers/{gamewave,tvgames,hyperscan,beena,neogeo64}.webp; logos/{gamewave,tvgames,hyperscan,beena,neogeo64}.webp; no metadata changed
+- Mockups (mockups/, also on the NAS in TPN Iconic/mockups): gamewave.jpg, tvgames.jpg, hyperscan.jpg, beena.jpg, neogeo64.jpg
+- Originals (sources/<code>/, also on the NAS): gamewave/: gamewave_bg_raw.jpeg, gamewave_console_carbon.png, gamewave_logo_src.png; tvgames/: tvgames_bg_raw.jpeg, tvgames_cab.png, tvgames_cab_gemini_raw.jpeg, tvgames_cab_grey_gemini_raw.jpeg, tvgames_logo_src.png; hyperscan/: hyperscan_bg_raw.jpeg, hyperscan_cab.png, hyperscan_cab_grey_gemini_raw.jpeg, hyperscan_logo_src.png; beena/: beena_bg_raw.jpeg, beena_bg_raw_v1_flowers_left.jpeg, beena_bg_raw_v2_noref_mushroom_left.jpeg, beena_cab.png, beena_cab_green_gemini_raw.jpeg, beena_cab_grey_gemini_raw.jpeg, beena_logo_src.png; neogeo64/: neogeo64_bg_raw.jpeg, neogeo64_cab.png, neogeo64_cab_gemini_raw.jpeg, neogeo64_logo_src.png
+- Backups of old art (replaced/): backgrounds-{gamewave,tvgames,hyperscan,beena,neogeo64}-old.webp; controllers-{gamewave,tvgames,hyperscan,beena,neogeo64}-old.webp; logos-{gamewave,hyperscan}-old.webp
+- Records changed: NIGHTLY_LOG.md, TODO.md, PROMPTS.md, CREDITS-TPN.md, salvage_log.tsv, controllers_log.tsv, arcade_bg_log.tsv, make_todo.py
+- Zip: iconic-tpn_20261012_b.zip (~/tpn-build; an empty iconic-tpn_20261012.zip stub is undeletable; copied to the NAS as iconic-tpn.zip)
+- Leftovers: Gemini_Generated_Image_*.jpeg downloads in Downloads (undeletable); work/tmp/wrong_copy.jpeg (stray scratch copy); the .wtest file on the NAS; two Chrome tabs closed
+- Git: files also copied to ~/Repos/TPN-Iconic-Theme and committed (not pushed)
 
-- Systems completed: tonight 5 (igspgm, zinc, gaelco, unis, rawthrills); total done so far = 51 (section A)
-- Systems left: 68 (B1 22, C 36, D 0, E 10)
-- Nights to complete: 14 at 5 per night (23 at 3 per night)
-
-- 2026-10-10 zinc REDONE after user feedback (side cabinets too faded): new Gemini three-cabinet group with glossy BLACK side cabinets and vivid vinyl (original SCHOOL CLASH and STAR KNIGHT games). Raw: sources/zinc/zinc_cab_3cab_v2_black_gemini_raw.jpeg; faded v1 kept as sources/zinc/zinc_cab_v1_faded.png and replaced/controllers-zinc-v1faded.webp. Installed _inc/controllers/zinc.webp, mockups/zinc.jpg. Lesson: for the side cabinets always say "glossy black bodies, fully saturated, NOT faded/grey" (also aleck64). NAS sync pending adds: new zinc raw and mockup; zip iconic-tpn_20261010_b.zip.
-- 2026-10-10 sv8000: console image straightened on user request (old Carbon photo was twisted/skewed). Gemini flat top-down render of the Carbon photo (sources/sv8000/sv8000_cab_gemini_straight_raw.jpeg), then levelled and made symmetrical locally with a perspective warp (sources/sv8000/sv8000_cab_straight.png). Old one: replaced/controllers-sv8000-skewed.webp. Note: Gemini drew the round knobs with small arrows (look like d-pads); NAS sync pending: mockups/sv8000.jpg, sources/sv8000/.
-- 2026-10-10 rawthrills: system image changed from the single Carbon cabinet to the standard three-cabinet group on user request. Centre = RAW Thrills branded cabinet (from the Carbon image), sides FAST LANE and ALIEN SIEGE (original games, glossy black bodies). Gemini returned a white background instead of green, so _tools/cutout_flat.py was used. Raw: sources/rawthrills/rawthrills_cab_3cab_gemini_raw.jpeg; old single cabinet kept as replaced/controllers-rawthrills-carbon-single.webp. NAS sync pending: mockups/rawthrills.jpg, sources/rawthrills/.
-- 2026-10-10 rawthrills REDONE (user: centre cabinet must be the standard cabinet like the sides, recoloured with the system logo and colours, not the Carbon cabinet). Centre is now the standard CPS2-style upright in vivid red/black with the RAW Thrills logo; sides FAST LANE and ALIEN SIEGE (glossy black). Raw: sources/rawthrills/rawthrills_cab_3cab_v2_standardcentre_gemini_raw.jpeg (green screen, cutout_green.py). Previous v1 kept as replaced/controllers-rawthrills-v1-carbon-centre.webp. Right marquee text is slightly garbled at small size. Rule for all arcade groups: centre = same standard cabinet as the sides, recoloured in the system's colours with its logo.
-- 2026-10-10 igspgm REDONE (side cabinets were faded/pale): glossy black bodies and vivid ORIENTAL LEGEND / KNIGHTS OF VALOUR vinyl, red PGM standard centre cabinet. Gemini drew thin green gaps between cabinets (first try only cut out one cabinet), so added _tools/cutout_green_group.py which keeps all cabinets and bridges the gaps with a dark fill. Raws: sources/igspgm/igspgm_cab_3cab_v2_black_gemini_raw.jpeg (rejected), igspgm_cab_3cab_v3_black_gemini_raw.jpeg (installed). Faded v1: replaced/controllers-igspgm-v1-faded.webp. Side vinyl panels are fairly flat/wide compared with the OG CPS2 look - user to review. Scan result: segasystem32, aleck64 and namco11 groups are fine (vivid); unis was already moved to mockups/verified by the user so left alone (its side bodies look pale). Mockups regenerated into mockups/ because the verified copies were older than the art: seganu, segarw.
-- 2026-10-10 pippin: user says the rally coupe background does not fit; kept for a future generic car system in sources/spare/spare_generic_car_rally_coupe_hairpin_pippin.webp (+ _raw.jpg) and replaced/backgrounds-pippin-rally-coupe.webp. New Pippin background: original steam tank engine tribute (in progress).
-- 2026-10-10 pippin: NEW background installed: original storybook steam tank engine (teal-green with copper and brass, no face, no numbers or lettering) crossing a stone viaduct at golden hour, a nod to classic British tank-engine stories (not any specific character). Raw: sources/pippin/pippin_bg_steam_engine_gemini_raw.jpeg. Mockup: mockups/pippin.jpg. Rally coupe kept in sources/spare/ for a future generic car system.
-- 2026-10-10 pippin: installed the user's own supplied background (1377x768 blue tank engine scene, fit/crop to 1920x1080 only, no generation). My original teal-green engine version kept as replaced/backgrounds-pippin-steam-engine-original-v1.webp and sources/pippin/pippin_bg_steam_engine_gemini_raw.jpeg. User-supplied file: sources/pippin/pippin_bg_user_supplied.jpg.
-- 2026-10-10 pippin: background replaced with the user's supplied image.
+- Systems completed: tonight 5, total done 56 (section A)
+- Systems left: 63 (B1 17, C 36, D 0, E 10)
+- Nights to complete: 13 at 5 per night (21 at 3 per night)

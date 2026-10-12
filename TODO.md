@@ -70,7 +70,7 @@ Working copy: Mac ~/tpn-build/iconic-tpn - zip on NAS: stuff/Emulation/TPN Iconi
 
 Every system in the PixN build that the original Iconic theme has no art for, with where its current art comes from.
 
-### A. Custom art - done (51)
+### A. Custom art - done (56)
 
 | Done | System | Name | Background | System image | Logo | To do |
 |---|---|---|---|---|---|---|
@@ -80,6 +80,7 @@ Every system in the PixN build that the original Iconic theme has no art for, wi
 | - [x] | alice32 | Alice 32 | Space pirate raid (Gemini) - installed | custom: Gemini top-down render of the Alice 32 from a reference photo | custom |  |
 | - [x] | apogeebk01 | Apogee BK-01 | Bad Road Soviet car (Gemini) - installed | custom: Gemini top-down render from the Carbon theme Apogee BK-01 photo | custom |  |
 | - [x] | aquarius | Aquarius Home Computer System | Treasure of Tarmin-style dungeon (Gemini) - installed | custom: Gemini top-down render from the Carbon theme Aquarius photo | custom |  |
+| - [x] | beena | Advanced Pico BEENA | Storybook-style: original girl in a yellow raincoat jumping in a rainbow puddle splash (Gemini, original) - installed | Gemini render from a text description (accuracy unverified), cut out - installed | custom |  |
 | - [x] | bk | Elektronika BK | Cosmonaut walking to a red-lit space station on an ice planet (Gemini, generic) - installed | custom: Elektronika BK-0010 keyboard photo (Carbon theme, transparent) cropped | custom |  |
 | - [x] | cassettevision | Cassette Vision | Kikori no Yosaku-style woodcutter (Gemini) - installed | custom: Epoch Cassette Vision console photo cut-out (Carbon theme photo) | custom |  |
 | - [x] | cbm2 | Commodore CBM-II | Astronaut watching a lunar lander touch down (Gemini, generic) - installed | custom: Commodore 710 (CBM-II) photo (Carbon theme) cut out, front view | custom |  |
@@ -87,9 +88,13 @@ Every system in the PixN build that the original Iconic theme has no art for, wi
 | - [x] | elektronika | Elektronika IM | Farmhand girl catching a golden egg in a basket, Ну, погоди!-style egg catching (Gemini, original character) - installed | custom: Elektronika IM Nu, pogodi! handheld photo (Carbon theme, transparent) cropped and doubled | custom |  |
 | - [x] | ep128 | Enterprise One Two Eight | Jetpack explorer vs crystalline space-whale (Gemini) - installed | custom: Gemini top-down render of the Enterprise 128 from the Carbon theme photo | custom |  |
 | - [x] | exl100 | EXL 100 | Hover-bike rider vs giant mechanical scorpion (Gemini) - installed | custom: Carbon theme photo cut-out (console, keyboard and joysticks; already flat top-down) | custom |  |
+| - [x] | gaelco | Gaelco PowerVR | Radikal Bikers-style: original pizza courier on an orange scooter racing a rainy neon street, pizzas flying (Gemini, original character) - installed; year set to 1996 (unsure) | PixN Carbon Gaelco A.V. TRACK cabinet image used as-is, cut-out (small, 248x283) - installed | custom |  |
 | - [x] | galaxy | Galaksija | Diamond Mine miner (Gemini) - installed | custom: Gemini top-down render from the Carbon theme Galaksija photo | custom |  |
+| - [x] | gamewave | Game Wave Family Entertainment System | Game-show-style: original robot host with a glowing question mark under spotlights (Gemini, original) - installed | Gemini render of the console on green, cut out - installed | custom |  |
 | - [x] | hec2hr | Hector 2HR | Mining robot vs crystal cavern (Gemini) - installed | custom: Gemini top-down render of the Hector 2HR keyboard unit from the Carbon theme photo | custom |  |
+| - [x] | hyperscan | HyperScan | Card-battler-style: original silver-haired duellist summoning a golden dragon from a glowing card (Gemini, original; no licensed card game) - installed | Gemini render from a Wikimedia photo reference, cut out - installed | custom |  |
 | - [x] | ibmpcjr | IBM PC Jr | Knight arriving at fairy-tale castle, King's Quest-style (Gemini) - installed | custom: Carbon theme photo cut-out (transparent PNG, 3/4 view; Gemini top-down render failed twice) | custom |  |
+| - [x] | igspgm | PolyGame Master (PGM) | Oriental Legend / Knights of Valour-style: original Three Kingdoms halberd general facing an armoured war boar in a misty gorge (Gemini, original characters) - installed | Gemini three-cabinet group (PGM-style blue centre cabinet + two muted game cabinets), green-screen cut-out - installed | custom |  |
 | - [x] | jupace | Jupiter Ace | Starfighter vs alien hive over Jupiter (Gemini) - installed | custom: Gemini top-down render from a Jupiter Ace photo (Carbon theme) | custom |  |
 | - [x] | m5 | Sord M5 | Ninja vs oni demon, moonlit pagoda (Gemini) - installed | custom: Gemini render of the Sord M5 from the ckau photo (slightly angled, matches the real wedge-shaped unit) | custom |  |
 | - [x] | mbee | MicroBee | Bunyip Adventure bunyip billabong (Gemini) - installed | custom: Gemini top-down render of the MicroBee keyboard unit from the Carbon theme photo | custom |  |
@@ -99,6 +104,7 @@ Every system in the PixN build that the original Iconic theme has no art for, wi
 | - [x] | myvision | My Vision KH-1000 | Master player at floating shogi/mahjong board (Gemini, generic) - installed | custom: My Vision TV, cartridge and console photo (Carbon theme) cropped | custom |  |
 | - [x] | n501 | NUON Enhanced DVD Player / DVD-N501 | Tempest-style tube shooter: golden bat-wing starfighter firing down a neon vortex tunnel at a red crystal enemy (Gemini, original) - installed; name shortened to NUON DVD-N501, hardware type set to console | custom: PixN Carbon NUON console image (Samsung DVD player + controller) used as-is, cut-out | custom |  |
 | - [x] | namco11 | System 11 | Tekken-style martial arts clash (Gemini) - installed | custom: Gemini three-image cabinet (System 32 angle ref + Namco System 11 marquee logo + Tekken-style side art from the background) | custom |  |
+| - [x] | neogeo64 | Hyper Neo Geo 64 | Samurai-duel-style: original white-haired female ronin slashing at a blue oni on a stormy sea-cliff (Gemini, original) - installed | Gemini three-cabinet group (Hyper Neo Geo 64 red centre + IRON FANG and STORM RIDERS side cabinets, original games), green-screen cut-out - installed | custom |  |
 | - [x] | ondra | Ondra | Tenebra-style crypt puzzle: wanderer at a cracking rune door (Gemini, original character) - installed | custom: Gemini flat top-down render of the Ondra from a Wikimedia Commons photo (OndraComputer.jpg) | custom |  |
 | - [x] | orao | Orao | Nevidljivi-style invisible presence in a foggy fortress courtyard (Gemini, original character) - installed | custom: Gemini flat top-down render of the Orao from a Wikimedia Commons photo (Orao-IMG 7278.jpg, CC licence) | custom |  |
 | - [x] | p2000t | Philips P2000 | Retro rocket-plane vs mechanical kraken (Gemini) - installed | custom: Gemini flat plan-view render of the P2000T from the Carbon theme photo (3 follow-ups needed for top-down) | custom |  |
@@ -107,6 +113,7 @@ Every system in the PixN build that the original Iconic theme has no art for, wi
 | - [x] | pippin | Pippin @mark | Storybook steam tank engine tribute: original teal-green and copper engine on a stone viaduct at golden hour, no face or lettering (Gemini, original) - installed; year corrected 1986 to 1996 | custom: Gemini green-screen render of the Apple Bandai Pippin Atmark console and controller from a Wikimedia Commons photo (Pippin-Atmark-Console-Set.png), cut out | custom |  |
 | - [x] | pocketstation | Sony PocketStation | Rain-coat adventurer riding a glowing manta ray over floating islands (Gemini, generic) - installed | custom: Sony PocketStation photo (Carbon theme, transparent) cropped | custom |  |
 | - [x] | pv2000 | PV-2000 | Astronaut kid vs chrome robot crab on the moon (Gemini, generic) - installed | custom: Gemini top-down render of the Casio PV-2000 from the Carbon theme photo | custom |  |
+| - [x] | rawthrills | RAW Thrills | The Fast and the Furious-style: original unbadged yellow-and-black-striped sports coupe jumping a ramp through a fireball (Gemini, original) - installed; year set to 2004 | Gemini three-cabinet group (RAW Thrills red standard centre cabinet + FAST LANE and ALIEN SIEGE side cabinets, original games), cut out; logo on a black plate - installed | custom |  |
 | - [x] | segaalls | Sega ALLS | House of the Dead (Gemini) - installed | SWDC cabinet cut-out - installed | custom |  |
 | - [x] | segaer | Sega Europa-R | Sega Rally-style scene (Gemini) - installed | - | custom |  |
 | - [x] | seganu | Sega Nu | Hatsune Miku-style concert (Gemini) - installed | custom: Luigi's Mansion Arcade cabinet (supplied cut-out) | custom |  |
@@ -115,16 +122,14 @@ Every system in the PixN build that the original Iconic theme has no art for, wi
 | - [x] | segasystem32 | System 32 | Golden Axe-style barbarian (Gemini) - installed | custom: Gemini-generated early-90s Sega upright cabinet (green screen) | custom |  |
 | - [x] | sorcerer | Sorcerer | Sorcerer vs dragon cavern (Gemini) - installed | custom: Gemini top-down render from the Carbon theme Sorcerer photo | custom |  |
 | - [x] | studio2 | Studio II | Bowling-style strike, giant marble ball vs ten pins (Gemini; built-in Studio II game) - installed | custom: RCA Studio II console photo (Carbon theme, transparent) cropped, 3/4 view | custom |  |
-| - [x] | sv8000 | Super Vision 8000 | Retro pilot vs saucer mothership over a night city (Gemini, generic) - installed | custom: Bandai Super Vision 8000 photo (Carbon theme), Gemini top-down re-render straightened 2026-10-10 | custom |  |
+| - [x] | sv8000 | Super Vision 8000 | Retro pilot vs saucer mothership over a night city (Gemini, generic) - installed | custom: Bandai Super Vision 8000 photo (Carbon theme) cut out | custom |  |
 | - [x] | tvc64 | TVC 64 | Hungarian warrior on winged horse vs three-headed dragon (Gemini) - installed | custom: Gemini top-down render of the Videoton TVC from a public-domain Wikimedia photo | custom |  |
+| - [x] | tvgames | TV Games | Sports-style: original astronaut swinging a neon bat at a flaming comet on a neon grid (Gemini, original) - installed | Generic Gemini joystick (original photo showed licensed characters), cut out - installed | custom |  |
+| - [x] | unis | UNIS Arcade Machines | Sky Kart-style: original teal-ponytail girl in a yellow helmet driving a pink go-kart off a rainbow trail among balloons and confetti (Gemini, original character) - installed | Gemini three-cabinet group (UNIS blue centre cabinet + Sky Kart and Ticket Rush game cabinets, original games), green-screen cut-out - installed | custom |  |
 | - [x] | vemulator | Sega Visual Memory Unit | Round robot companion leaping over a neon ocean (Gemini, generic) - installed | custom: Dreamcast VMU photo (Carbon theme, transparent) cropped and doubled | custom |  |
 | - [x] | vg5k | VG-5000 | Deep-sea diver vs luminous jellyfish, sunken palace (Gemini) - installed | custom: Gemini top-down render of the Philips VG-5000 from the Carbon theme photo | custom |  |
 | - [x] | vidbrain | Videobrain Family Computer | American football quarterback under floodlights, VideoBrain Football-style (Gemini, generic) - installed | custom: VideoBrain console photo (Carbon theme) cut out, 2x upscaled, edge halo removed | custom |  |
-| - [x] | igspgm | PolyGame Master (PGM) | Oriental Legend / Knights of Valour-style: original Three Kingdoms halberd general facing an armoured war boar in a misty gorge (Gemini, original characters) - installed | custom: Gemini three-cabinet group (PGM-style blue centre cabinet + two muted game cabinets), green-screen cut-out | custom | |
-| - [x] | zinc | Zinc | Rival Schools-style: original schoolboy in a red scarf flying-kicking against a setting sun with cherry petals (Gemini, original character) - installed; metadata renamed Sony ZN (ZiNc), 1995 | custom: Gemini three-cabinet group (Sony ZN-style centre cabinet + two muted game cabinets), green-screen cut-out | custom | |
-| - [x] | gaelco | Gaelco PowerVR | Radikal Bikers-style: original pizza courier on an orange scooter racing a rainy neon street, pizzas flying (Gemini, original character) - installed; year set to 1996 (unsure) | custom: PixN Carbon Gaelco A.V. TRACK cabinet image used as-is, cut-out (small, 248x283) | custom | |
-| - [x] | unis | UNIS Arcade Machines | Sky Kart-style: original teal-ponytail girl in a yellow helmet driving a pink go-kart off a rainbow trail among balloons and confetti (Gemini, original character) - installed | custom: Gemini three-cabinet group (UNIS blue centre cabinet + Sky Kart and Ticket Rush game cabinets, original games), green-screen cut-out | custom | |
-| - [x] | rawthrills | RAW Thrills | The Fast and the Furious-style: original unbadged yellow-and-black-striped sports coupe jumping a ramp through a fireball (Gemini, original) - installed; year set to 2004 | custom: Cabinet image from the PixN Carbon set, cut-out; logo placed on a black plate (white-on-white) | custom | |
+| - [x] | zinc | Zinc | Rival Schools-style: original schoolboy in a red scarf flying-kicking against a setting sun with cherry petals (Gemini, original character) - installed; metadata renamed Sony ZN (ZiNc), 1995 | Gemini three-cabinet group (Sony ZN-style centre cabinet + two muted game cabinets), green-screen cut-out - installed | custom |  |
 
 ### B. Hypermax background (frame removed) - looks OK (3)
 
@@ -134,23 +139,19 @@ Every system in the PixN build that the original Iconic theme has no art for, wi
 | - [ ] | karaoke | Karaoke | Hypermax background (frame removed) | - | ckau-book | description text |
 | - [ ] | namco3xx | Namco 357/369 | Hypermax background (frame removed) | - | text only | needs logo; description text |
 
-### B1. REMAKE - custom art needed (22)
+### B1. REMAKE - custom art needed (17)
 
 | Done | System | Name | Background | System image | Logo | To do |
 |---|---|---|---|---|---|---|
 | - [ ] | appleios | iOS | Hypermax background (frame removed) | - | ckau-book | REMAKE: generic placeholder shared with other systems - new custom art; description text |
 | - [ ] | avgn | The Angry Video Game Nerd | Hypermax background (frame removed) | - | ckau-book | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; description text |
-| - [ ] | beena | Advanced Pico BEENA | Hypermax background (frame removed) | - | text only | REMAKE: generic placeholder shared with other systems - new custom art; needs logo; description text |
 | - [ ] | exboard | eX-Board | Hypermax background (frame removed) | - | text only | REMAKE: generic placeholder shared with other systems - new custom art; needs logo; description text |
 | - [ ] | fightcade | Fightcade 2 | Hypermax background (frame removed) | - | text only | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; needs logo; description text |
-| - [ ] | gamewave | Game Wave Family Entertainment System | Hypermax background (frame removed) | - | ckau-book | REMAKE: generic placeholder shared with other systems - new custom art; description text |
-| - [ ] | hikaru | Hikaru | Hypermax background (frame removed) | - | text only | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; needs logo; description text |
-| - [ ] | hyperscan | HyperScan | Hypermax background (frame removed) | - | ckau-book | REMAKE: generic placeholder shared with other systems - new custom art; description text |
+| - [ ] | hikaru | Hikaru | Hypermax background (frame removed) | - | ckau-book | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; description text |
 | - [ ] | igtslots | IGT slots (fruit machines) | Hypermax background (frame removed) | - | text only | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; needs logo; description text |
 | - [ ] | konamipc | Konami PC Based | Hypermax background (frame removed) | - | text only | REMAKE: generic placeholder shared with other systems - new custom art; needs logo; description text |
 | - [ ] | mononcol | Monon Color | Hypermax background (frame removed) | - | ckau-book | REMAKE: generic placeholder shared with other systems - new custom art; description text |
 | - [ ] | namcoes3 | Namco System ES3 | Hypermax background (frame removed) | - | text only | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; needs logo; description text |
-| - [ ] | neogeo64 | Hyper Neo Geo 64 | Hypermax background (frame removed) | - | text only | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; needs logo; description text |
 | - [ ] | nesicax | NESiCAxLive | Hypermax background (frame removed) | - | text only | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; REMAKE: generic placeholder shared with other systems - new custom art; needs logo; description text |
 | - [ ] | nesicax2 | NESiCAxLive 2 | Hypermax background (frame removed) | - | text only | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; REMAKE: generic placeholder shared with other systems - new custom art; needs logo; description text |
 | - [ ] | radio | Radio | Hypermax background (frame removed) | - | ckau-book | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; description text |
@@ -158,7 +159,6 @@ Every system in the PixN build that the original Iconic theme has no art for, wi
 | - [ ] | screenshots | Screenshots | Hypermax background (frame removed) | - | ckau-book | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; description text |
 | - [ ] | snotec | Super Note Club | Hypermax background (frame removed) | - | ckau-book | REMAKE: generic placeholder shared with other systems - new custom art; description text |
 | - [ ] | sys80 | System-80 | Hypermax background (frame removed) | - | ckau-book | REMAKE: generic placeholder shared with other systems - new custom art; description text |
-| - [ ] | tvgames | TV Games | Hypermax background (frame removed) | - | text only | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; needs logo; description text |
 | - [ ] | videodriver | Video Driver | Hypermax background (frame removed) | - | ckau-book | REMAKE: Hypermax picture only fills half the screen (do not upscale) - new custom art; description text |
 
 ### C. Borrowed art - needs its own background (36)
@@ -649,8 +649,17 @@ Iconic always uses GAME art, never the machine itself - even for obscure compute
 - 2026-10-09 pippin - Racing Days / rally-style racer on the Pippin (original blue striped rally coupe drifting through a mountain hairpin at dusk with a dust and gravel spray; no text and no real-game characters). Pippin game library is small; title chosen as a plausible driving game.
 - 2026-10-09 gc - Luigi's Mansion-style ghost hunt: original girl in a yellow raincoat with a brass headlamp and vacuum-lantern drawing in green spectral mist, moonlit haunted mansion hall (Gemini).
 - 2026-10-09 psvita - LittleBigPlanet Vita-style craft world (user worked on the game): original stitched felt fox cub leaping for a glitter paper star among cardboard and quilted-cloth platforms (Gemini). Sackboy NOT used; first version had a platform in the left 45 percent so it was redone as a fresh composition.
+- 2026-10-09 ps2 - Vice City-style tribute (user request; GTA3 first asked, user chose Vice City): original unbadged hot-pink and white 1980s wedge sports convertible on an ocean boulevard at sunset, palms, big pink sun, neon art-deco hotels, no people or text, all in the right 55 percent (Gemini).
 
 ### Arcade three-cabinet groups (2026-10-08)
 Attach 4 images: 1 OG cps2 group on light grey (layout), 2 existing cabinet on light grey, 3 system logo, 4 background.
 Prompt (segasystem32 version, accepted): "Using the four attached images, create a product photograph of ONE tight compact group of THREE upright arcade cabinets, arranged exactly like image 1 (the Capcom CPS2 group), and copying how image 1 works. CENTRE cabinet: in front, facing straight at the viewer, the system's own branded cabinet in full bright colour: it is the cabinet from image 2 but recoloured in vivid <system colour> with the <system> logo from image 3 on the marquee and on the lower front panel, and a boot screen showing the <system> logo, just as the centre CPS2 cabinet shows the Capcom Play System logo and a Capcom Presents screen. LEFT and RIGHT cabinets: game cabinets standing slightly behind the centre one, each turned about 30 degrees outward, overlapping behind the centre cabinet's edges, with their side panels touching it. They have black bodies with slightly faded, muted colours (like the outer cabinets in image 1), each with full-height vinyl artwork on its visible side panel, its own game marquee on top, and gameplay on its screen. LEFT game: <game 1 + art description + marquee text>. RIGHT game: <game 2 ...>. NO green gaps between the cabinets. Plain solid bright green background (#00FF00), no shadow of any kind, flat even green right up to hard clean edges."
 Sit-down systems keep a single sit-down cabinet (user decision).
+
+### 2026-10-10 night run (igspgm, zinc, gaelco, unis, rawthrills)
+- igspgm - Oriental Legend / Knights of Valour-style: rear view of an original armoured Three Kingdoms general swinging a gilded halberd at a charging armoured boar in a misty gorge; hero centre-right, left 45% empty rock and mist. Cabinets: three-cabinet group (PGM-style centre + two muted game cabinets).
+- zinc - Rival Schools-style: original schoolboy in a long red scarf flying-kick at a huge setting sun, cherry petals, school building far right; left third empty dusk haze. Cabinets: three-cabinet group.
+- gaelco - Radikal Bikers-style: original pizza courier on an orange scooter splashing through a rainy neon city street, pizza boxes flying; a taxi in the left area was removed with a Gemini edit. Controller: PixN Carbon Gaelco A.V. TRACK cabinet.
+- unis - Sky Kart-style (original): teal-ponytail girl in a yellow helmet and orange suit driving a pink go-kart with a rainbow trail, balloons and confetti on the right; first two versions rejected (Mario-like look; balloons on the left). Cabinets: UNIS blue centre cabinet, left SKY KART, right TICKET RUSH (invented games).
+- rawthrills - The Fast and the Furious-style: unbadged yellow sports coupe with black stripes jumping a ramp through a fireball at dusk; fire trail dimmed out of the left area.
+- zinc redo 2026-10-10: three-cabinet prompt with "both side cabinets must have solid GLOSSY BLACK bodies and be as rich, bright and fully saturated as the centre cabinet. NOT faded, NOT grey, NOT washed out"; refs = cps2_grey, zinc logo, zinc background; sides SCHOOL CLASH / STAR KNIGHT (original).
