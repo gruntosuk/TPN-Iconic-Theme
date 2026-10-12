@@ -1,6 +1,6 @@
-# Iconic TPN - nightly run (FIVE systems a night)
+# Iconic TPN - nightly run (3 systems, up to 5 if going well)
 
-Scheduled task brief. Each night, finish FIVE systems to the agreed standard (superseded by the 2026-10-09 update at the end). Original wording: three, and if those three went well (no more than one regeneration each, no blockers, usage and time left), carry on and finish up to FIVE systems in total (user request 2026-10-07); do one full set of records, zip and NAS sync at the end covering all of them, but write the log entry and sync after the third system as a safety net. If anything goes wrong, stop at the last finished system and log how far you got. Then write a report. Order and popularity do not matter.
+Scheduled task brief. Each night, finish THREE systems to the agreed standard. If those three went well (no more than one regeneration each, no blockers, usage and time left), carry on and finish up to FIVE systems in total (user request 2026-10-07); do one full set of records, zip and NAS sync at the end covering all of them, but write the log entry and sync after the third system as a safety net. If anything goes wrong, stop at the last finished system and log how far you got. Then write a report. Order and popularity do not matter.
 
 ## Locations
 - Working theme: ~/tpn-build/iconic-tpn (scripts in _tools, python env ~/tpn-build/venv)
@@ -23,7 +23,7 @@ Take any 3 unticked systems from TODO.md sections B1, C, D or E.
 1. Research its real games (web search). Pick one game ORIGINAL to that machine. Fan-art style is fine (updated 2026-10-05), but NEVER use a famous character or mascot on any system other than its own (no Samus on anything but Nintendo, no Mario/Sonic elsewhere, etc.). Use original characters instead. Gemini often copies the hero from the style reference (the SNES reference is Super Metroid), so check every background for this.
 2. Background (Gemini in Chrome, NEW chat per image): attach the SNES style reference (open it in a tab, screenshot, upload_image to Gemini's file input), paste the STANDARD BLOCK from PROMPTS.md with your scene. Check: one large hero centre-right, left third dark/quiet, calm bottom, no text/logos/UI/number plates. Fix with small follow-up requests in the same chat. Download full size (never screenshots, never upscale).
 3. System image:
-   - Arcade boards (UPDATED 2026-10-08, agreed with the user): the system image is a tight THREE-CABINET GROUP in the style of the OG theme's cps2 image (OG file: iconic-es-main/_inc/controllers/cps2.webp on the NAS; also arcade, atomiswave, naomi, triforce). Base the cabinets on the machine used for the system's MOST FAMOUS game. Upright cabinets: CENTRE = the system's own branded cabinet in full bright colour, facing the camera, in front, with the system logo on the marquee and lower front and a boot screen showing the system logo; LEFT and RIGHT = two real, well-known games of that system, black-bodied cabinets, glossy black bodies, as rich, bright and fully saturated as the centre one (NEVER faded, grey or washed out - user feedback 2026-10-10), each with its own full-height side vinyl, own marquee text and gameplay on screen, standing slightly behind the centre one, turned about 30 degrees outward, overlapping behind its edges, side panels touching, NO gaps. Sit-down/deluxe boards (Ringwide, Sega Nu, segaalls, segare, segaer etc.) keep a single sit-down cabinet and are NOT turned into groups. Gemini workflow: attach (1) the OG cps2 image on light grey as layout reference, (2) the existing cabinet on light grey (shape), (3) the system logo, (4) the background; green (#00FF00) background, no shadow, hard clean edges; cut out with _tools/cutout_green.py. Reference prompt that worked (segasystem32): see PROMPTS.md "Arcade three-cabinet groups". Always confirm the downloaded file is NEW (check ~/Downloads timestamps) before cutting out.
+   - Arcade boards (UPDATED 2026-10-08, agreed with the user): the system image is a tight THREE-CABINET GROUP in the style of the OG theme's cps2 image (OG file: iconic-es-main/_inc/controllers/cps2.webp on the NAS; also arcade, atomiswave, naomi, triforce). Base the cabinets on the machine used for the system's MOST FAMOUS game. Upright cabinets: CENTRE = the system's own branded cabinet in full bright colour, facing the camera, in front, with the system logo on the marquee and lower front and a boot screen showing the system logo; LEFT and RIGHT = two real, well-known games of that system, black-bodied cabinets with slightly faded/muted colours, each with its own full-height side vinyl, own marquee text and gameplay on screen, standing slightly behind the centre one, turned about 30 degrees outward, overlapping behind its edges, side panels touching, NO gaps. Sit-down/deluxe boards (Ringwide, Sega Nu, segaalls, segare, segaer etc.) keep a single sit-down cabinet and are NOT turned into groups. Gemini workflow: attach (1) the OG cps2 image on light grey as layout reference, (2) the existing cabinet on light grey (shape), (3) the system logo, (4) the background; green (#00FF00) background, no shadow, hard clean edges; cut out with _tools/cutout_green.py. Reference prompt that worked (segasystem32): see PROMPTS.md "Arcade three-cabinet groups". Always confirm the downloaded file is NEW (check ~/Downloads timestamps) before cutting out.
    - Computers: flat TOP-DOWN overhead view. If no clean photo, Gemini top-down render from a reference photo (PixN consoles folder or web), green background, no shadow.
    - Consoles/handhelds: a clean photo or Gemini render on green.
    - Verify identity - PixN files are sometimes mislabelled (e.g. an Apogee logo that was really the Elektronika BK).
@@ -64,26 +64,4 @@ previous
 images
 completely...) with explicit percentage positions and sizes.
 
-## Report ending (added 2026-10-09, user request)
-End every report (final message, NIGHTLY_LOG entry and PushNotification) with these three lines, after the Files section:
-- Systems completed: tonight N, total done so far = ticked in TODO.md section A
-- Systems left: unticked in sections B1 + C + D + E of the regenerated TODO.md (say the per-section counts)
-- Nights to complete: systems left divided by 5, rounded up (also give the figure at 3 per night)
-
-## Reserved art
-- sources/_reserved_for_ps3/: fox cub craft-world backgrounds (original character). User wants them used for PS3 and maybe PSP when we reach them. Do not delete.
-
-## Mockup text rule (standing, from Grant 2026-10-09)
-If the systems-column description text runs right onto the logo (as on PS2/PS3), render the mockup with the bottom two lines removed: `MAXLINES=4 python mk.py <sys>`. Default is 6 lines. Apply this by default whenever the text collides with the logo, same as the systems already done.
-
-## Update 2026-10-09 (from Grant): five a night, generic systems first
-- Target FIVE systems every night (still write the log entry and NAS sync after the third as a safety net; stop and log if anything goes wrong).
-- Pick only systems that can be done with fully generic art (no recognizable game, character or brand): in TODO.md the obscure arcade boards and hardware in B1 (e.g. Hikaru, PGM, Zinc, Gaelco, UNIS, RAW Thrills, HyperScan, BEENA, Game Wave, Neo Geo 64, NESiCAxLive 1/2, System-80, IGT slots, Radio, Video Driver, eX-Board, Namco ES3, Monon Color, Super Note Club, TV Games, Konami PC, Fightcade, Screenshots), then the obscure computers/handhelds/pinball/laserdisc in C (BK 0010-01, C16, Max Machine, LaserActive, MSX LaserDisc, Konami LCD, Tiger, Pocket Challenge V2, Zaccaria, Pinball M, Pinball FX 1-3), then the book-art systems in E (BML3, digiBLAST, GameKing 3, M21, System 12, Sega AI, SMC-777, Vii, Wahlap).
-- Leave for Grant (do NOT generate): named-game ports and big-brand systems (2ship, soh, opengoal, pdark, halflife, powerbomberman, clonehero, redriver2, openlara etc.), stores (amazon, eagames, wingog, winpopcap, winbigfish, wingamehouse, pcvr), and iOS, Gundam RX-78, AVGN, Video Game Movies. Grant adds characters himself in Gemini where wanted.
-- Mockups: if the description text runs onto the logo, render with MAXLINES=4 (see the mockup text rule above).
-
-
-## Cabinet group standard (added 2026-10-10, user)
-- CENTRE = the SAME standard upright cabinet shape as the side cabinets (CPS2-style), recoloured in the system's brand colours with the system logo on marquee, lower front and boot screen. Do NOT use the old Carbon/single-cabinet photo as the centre.
-- SIDES = glossy black bodies, fully saturated vivid vinyl contained inside the outline, own marquee text and gameplay. Never faded/grey/washed out.
-- If Gemini returns a white background instead of green, use _tools/cutout_flat.py.
+- STANDING RULE (user, 2026-10-12): the two side cabinets in arcade three-cabinet groups must show REAL, well-known games of that system (real marquee text and side art in the game's style), never invented games. Backgrounds still use original characters only.

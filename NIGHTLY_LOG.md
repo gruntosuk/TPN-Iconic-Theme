@@ -408,3 +408,7 @@ Five systems finished in total: studio2, orao, ondra, n501, pippin.
 - Nights to complete: 13 at 5 per night (21 at 3 per night)
 - 2026-10-12 tvgames: removed a white halo around the joystick cut-out (alpha eroded, light fringe removed). Old cut-out kept as sources/tvgames/tvgames_cab_v1_whitehalo.png.
 - 2026-10-12 tvgames (2nd fix): re-cut the joystick from the raw grey render by flood-filling the grey background and shadow from the outside (white halo and shadow gone); stick and plug tips restored by hand. Earlier cut-outs: tvgames_cab_v1_whitehalo.png, tvgames_cab_v2_greyshadow.png.
+
+- 2026-10-12 neogeo64 redo: the side cabinets now show the real games Samurai Shodown 64 and Fatal Fury: Wild Ambition (user asked for real games on cabinets). Earlier invented-games group kept as sources/neogeo64/neogeo64_cab_v1_invented_games.png (+ _raw). New: neogeo64_cab_realgames_gemini_raw.jpeg and neogeo64_cab_realgames.png (= neogeo64_cab.png). NOTE: earlier groups with invented side games (unis, rawthrills, igspgm/zinc if any) may need redoing with real games.
+- 2026-10-12 tvgames controller: several rounds of cut-out clean-up (white halo, grey shadow, cable streaks, plug holes). Earlier versions in sources/tvgames/tvgames_cab_v1_whitehalo.png, _v2_greyshadow.png, _v3_greystreaks.png.
+- Zip iconic-tpn_20261012_b.zip predates the tvgames and neogeo64 fixes; rebuild before release.
